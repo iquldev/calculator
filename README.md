@@ -1,4 +1,4 @@
-# SimpleCalculator (no gui)
+# Calculator (no gui)
 ## en
 A very simple calculator in Python
 
